@@ -1,3 +1,5 @@
 This is my first Git repository.
 Author: Kasthuri  
+Course: B.Tech AIML  
+Goal: Learning Git and GitHub for full-stack development.
 create text.txt
