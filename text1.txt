@@ -1,0 +1,8 @@
+Git Practice File
+Date: 20-01-2026
+Today I learned:
+- What is Git
+- How to create a repository
+- How to create a file
+- How to commit changes
+I am practicing Git to become a full-stack developer.
